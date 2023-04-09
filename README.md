@@ -1,7 +1,7 @@
 # NodeJS-chat-
 **A real-time chat application using Socket.io , Node.js and Express.js**
 
-**##Prerequisites** 
+## Prerequisites
 1. Node.js should be installed on respective local machine 
 2. All the required dependencies must installed 
 
